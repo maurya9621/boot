@@ -281,33 +281,9 @@ who favorable. necessary up knowledge it tolerably. </p>
   <p class="text-white text-size" style="font-size: 10px;"> <b> Privacy policy &nbsp;&nbsp;&nbsp; Terms & Conditions </b></p>
   </div>
 </div>
-
-
- 
 </div>
-  
- 
-
-
- 
-
-
 </div >
 
-
-
-
-
-
-
-
-
 </div>
-
-
-
-
-  
-
 </body>
 </html>
